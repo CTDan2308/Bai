@@ -1,1 +1,1 @@
-https://github.com/CTDan2308/Bai/Dan.html
+https://ctdan2308.github.io/Bai/Dan.html
