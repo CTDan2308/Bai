@@ -15,7 +15,7 @@ html {
 {
     background-color:#ffffff;
     border-radius: 25px;
-    border:7px solid;
+    border:8px solid;
     border-color:#ffffff;
 
 }
@@ -23,7 +23,7 @@ html {
 
 .trong
 {
-    padding:1cm;;
+    padding:1cm;
 }
 .trong1
 {
@@ -55,7 +55,7 @@ html {
   .top:hover
   {
     color: rgb(255, 255, 255);
-    background-color: rgb(41, 112, 204);
+    background-color: rgb(88, 152, 235);
   }
   .anh
   {
@@ -282,7 +282,7 @@ html {
 footer
 {
     text-align: center;
-    opacity: 80%;
+    
 }
 
 
